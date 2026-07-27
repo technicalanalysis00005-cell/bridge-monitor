@@ -1,0 +1,4 @@
+# No dependencies — pure Python 3.8+ stdlib
+# Optional: for enhanced analysis
+# web3>=6.0
+# requests>=2.28
