@@ -1,0 +1,4 @@
+# No dependencies -- pure Python stdlib
+# Optional:
+# web3>=6.0
+# requests>=2.28
